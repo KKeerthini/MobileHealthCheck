@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "427756191450",
+    "firebase_url": "https://mobilecheck-a04c6.firebaseio.com",
+    "project_id": "mobilecheck-a04c6",
+    "storage_bucket": "mobilecheck-a04c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427756191450:android:2f9929bbf2435e52",
+        "android_client_info": {
+          "package_name": "com.mobile.health.check"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427756191450-ge3i2vi709m806n5jfd023v77buar5qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4n10JypUI5jhlk0zL5BEUDIEXAQSTRfw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
